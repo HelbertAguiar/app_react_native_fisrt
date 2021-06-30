@@ -28,7 +28,7 @@ export default () => {
 
             <View style = {styles.header}>
                 <Image source = {main_photo} style = {styles.main_photo}/>
-                <Text style = {styles.titulo_foto}> {'Punta Cana \n'}  </Text>
+                <Text style = {styles.titulo_foto}> {'Punta Cana \n 4 Hóspedes 2 Quartos 2 Camas 1 Banheiro'}  </Text>
             </View>
 
             <FlatList
